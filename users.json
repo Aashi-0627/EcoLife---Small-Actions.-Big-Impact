@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "muvld7Gnphzf",
+    "createdAt": "2026-08-08T08:56:16.703Z",
+    "updatedAt": "2026-08-08T08:56:16.703Z",
+    "name": "abcd",
+    "email": "sinhaaashi57@gmail.com",
+    "passwordHash": "$2a$10$goZw4rEvCtIp9TB.9h9DSu472lXqBQx6g3XYhiUPb9woFldUKS/02",
+    "campusId": null,
+    "avatarSeed": "JzIsMU",
+    "greenPoints": 0,
+    "greenScore": 0,
+    "level": 1,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastCompletionDate": null,
+    "co2SavedKg": 0,
+    "isDemo": false
+  },
+  {
+    "_id": "5O-W8RS1IKc9",
+    "createdAt": "2026-08-08T09:00:13.684Z",
+    "updatedAt": "2026-08-08T09:06:39.739Z",
+    "name": "isha",
+    "email": "abcd7@gmail.com",
+    "passwordHash": "$2a$10$g7mBgq/x7FDxPtiZcQDhpuIAe.JoqyBHLpBI2qNzrPXZNeW7FO/Ou",
+    "campusId": "jn4U2Kd0U9b5",
+    "avatarSeed": "eZooWX",
+    "greenPoints": 55,
+    "greenScore": 70,
+    "level": 1,
+    "currentStreak": 1,
+    "longestStreak": 1,
+    "lastCompletionDate": "2026-08-08",
+    "co2SavedKg": 2.93,
+    "isDemo": false
+  }
+]

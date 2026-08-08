@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "FmcnBVMd2d0m",
+    "createdAt": "2026-08-08T09:01:13.174Z",
+    "updatedAt": "2026-08-08T09:01:13.174Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "transport",
+    "activityType": "car_petrol_km",
+    "quantity": 0.1,
+    "unit": "km",
+    "co2eKg": 0.019,
+    "date": "2026-08-08"
+  },
+  {
+    "_id": "bj5i3Tj1crFm",
+    "createdAt": "2026-08-08T09:01:34.396Z",
+    "updatedAt": "2026-08-08T09:01:34.396Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "energy",
+    "activityType": "electricity_kwh",
+    "quantity": 0.1,
+    "unit": "kWh",
+    "co2eKg": 0.048,
+    "date": "2026-08-08"
+  },
+  {
+    "_id": "X8LnbScrsBRQ",
+    "createdAt": "2026-08-08T09:01:57.843Z",
+    "updatedAt": "2026-08-08T09:01:57.843Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "water",
+    "activityType": "water_liter",
+    "quantity": 0.1,
+    "unit": "L",
+    "co2eKg": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "_id": "2sVv6xSoBjHQ",
+    "createdAt": "2026-08-08T09:02:04.015Z",
+    "updatedAt": "2026-08-08T09:02:04.015Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "water",
+    "activityType": "water_liter",
+    "quantity": 0.1,
+    "unit": "L",
+    "co2eKg": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "_id": "yAZqxDIocl22",
+    "createdAt": "2026-08-08T09:04:58.004Z",
+    "updatedAt": "2026-08-08T09:04:58.004Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "water",
+    "activityType": "water_liter",
+    "quantity": 2,
+    "unit": "L",
+    "co2eKg": 0.001,
+    "date": "2026-08-08"
+  },
+  {
+    "_id": "GWbcmDV_5FFH",
+    "createdAt": "2026-08-08T09:05:21.181Z",
+    "updatedAt": "2026-08-08T09:05:21.181Z",
+    "userId": "5O-W8RS1IKc9",
+    "category": "waste",
+    "activityType": "landfill_kg",
+    "quantity": 3,
+    "unit": "kg",
+    "co2eKg": 1.74,
+    "date": "2026-08-08"
+  }
+]
