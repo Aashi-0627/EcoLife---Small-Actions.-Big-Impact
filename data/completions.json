@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "7_r7WOHoQTS2",
+    "createdAt": "2026-08-08T09:00:52.115Z",
+    "updatedAt": "2026-08-08T09:00:52.115Z",
+    "userId": "5O-W8RS1IKc9",
+    "challengeId": "fboH11npZ9zi",
+    "completedOn": "2026-08-08",
+    "pointsAwarded": 10,
+    "co2SavedKg": 0.08
+  },
+  {
+    "_id": "FtOulGGdKG8k",
+    "createdAt": "2026-08-08T09:03:40.809Z",
+    "updatedAt": "2026-08-08T09:03:40.809Z",
+    "userId": "5O-W8RS1IKc9",
+    "challengeId": "IMcx8PozAnB6",
+    "completedOn": "2026-08-08",
+    "pointsAwarded": 20,
+    "co2SavedKg": 1.2
+  },
+  {
+    "_id": "1Ikmumv_1Mft",
+    "createdAt": "2026-08-08T09:04:12.748Z",
+    "updatedAt": "2026-08-08T09:04:12.748Z",
+    "userId": "5O-W8RS1IKc9",
+    "challengeId": "J_pwFYoepi0r",
+    "completedOn": "2026-08-08",
+    "pointsAwarded": 10,
+    "co2SavedKg": 0.15
+  },
+  {
+    "_id": "9LMulYNQvugU",
+    "createdAt": "2026-08-08T09:04:25.961Z",
+    "updatedAt": "2026-08-08T09:04:25.961Z",
+    "userId": "5O-W8RS1IKc9",
+    "challengeId": "43O-mp2UPX8F",
+    "completedOn": "2026-08-08",
+    "pointsAwarded": 15,
+    "co2SavedKg": 1.5
+  }
+]
